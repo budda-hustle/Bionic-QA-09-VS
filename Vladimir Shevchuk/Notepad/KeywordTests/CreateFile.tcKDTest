@@ -20,7 +20,7 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="parameters">
-			<Prp name="key" type="S" value="{60374668-139F-48E3-BEF3-1A5FC46DA9EE}"/>
+			<Prp name="key" type="S" value="{6585FC05-381F-4445-8194-0C41D85D9921}"/>
 		</Node>
 		<Node name="settings">
 			<Prp name="settingsversion" type="S" value="7.50"/>
@@ -126,7 +126,7 @@
 								<Prp name="name" type="S" value="FileName"/>
 								<Prp name="paramtype" type="S" value="{EFBF9355-5127-43E4-B03E-D06E65C8181F}"/>
 								<Prp name="valuetype" type="I" value="6"/>
-								<Prp name="valuevalue" type="S" value="C:\Documents and Settings\Tester\Desktop\Example.txt"/>
+								<Prp name="valuevalue" type="S" value="C:\Documents and Settings\Tester\Desktop\example"/>
 								<Prp name="vartype" type="I" value="8"/>
 							</Node>
 							<Node name="parameter1">
@@ -142,7 +142,7 @@
 							<Prp name="langid" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
 						</Node>
 						<Prp name="action" type="S" value="SaveFile"/>
-						<Prp name="description" type="S" value="Saves the 'C:\Documents and Settings\Tester\Desktop\Example.txt' file via the 'dlgSaveAs' dialog."/>
+						<Prp name="description" type="S" value="Saves the 'C:\Documents and Settings\Tester\Desktop\example' file via the 'dlgSaveAs' dialog."/>
 						<Prp name="descriptionedited" type="B" value="-1"/>
 					</Node>
 					<Prp name="type" type="S" value="{575D0372-CCEB-4D0F-AFE8-D2004F108913}"/>
@@ -265,51 +265,6 @@
 						<Node name="parameters">
 							<Node name="parameter0">
 								<Prp name="defvaluetype" type="I" value="1"/>
-								<Prp name="defvaluevalue" type="I" value="-1"/>
-								<Prp name="defvartype" type="I" value="3"/>
-								<Prp name="name" type="S" value="ClientX"/>
-								<Prp name="paramtype" type="S" value="{EFBF9355-5127-43E4-B03E-D06E65C8181F}"/>
-								<Prp name="valuetype" type="I" value="1"/>
-								<Prp name="valuevalue" type="I" value="448"/>
-								<Prp name="vartype" type="I" value="3"/>
-							</Node>
-							<Node name="parameter1">
-								<Prp name="defvaluetype" type="I" value="1"/>
-								<Prp name="defvaluevalue" type="I" value="-1"/>
-								<Prp name="defvartype" type="I" value="3"/>
-								<Prp name="name" type="S" value="ClientY"/>
-								<Prp name="paramtype" type="S" value="{EFBF9355-5127-43E4-B03E-D06E65C8181F}"/>
-								<Prp name="valuetype" type="I" value="1"/>
-								<Prp name="valuevalue" type="I" value="23"/>
-								<Prp name="vartype" type="I" value="3"/>
-							</Node>
-							<Node name="parameter2">
-								<Prp name="defvaluetype" type="I" value="1"/>
-								<Prp name="defvaluevalue" type="I" value="0"/>
-								<Prp name="defvartype" type="I" value="12"/>
-								<Prp name="name" type="S" value="Shift"/>
-								<Prp name="paramtype" type="S" value="{EFBF9355-5127-43E4-B03E-D06E65C8181F}"/>
-								<Prp name="valuetype" type="I" value="1"/>
-								<Prp name="valuevalue" type="I" value="0"/>
-								<Prp name="vartype" type="I" value="3"/>
-							</Node>
-							<Prp name="langid" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
-						</Node>
-						<Prp name="action" type="S" value="Click"/>
-						<Prp name="description" type="S" value="Clicks at point (448, 23) of the 'wndNotepad' object."/>
-						<Prp name="descriptionedited" type="B" value="-1"/>
-					</Node>
-					<Prp name="type" type="S" value="{575D0372-CCEB-4D0F-AFE8-D2004F108913}"/>
-				</Node>
-				<Node name="child6">
-					<Node name="data">
-						<Node name="objectsyntax">
-							<Prp name="code" type="S" value="Aliases.notepad.wndNotepad;"/>
-							<Prp name="langid" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
-						</Node>
-						<Node name="parameters">
-							<Node name="parameter0">
-								<Prp name="defvaluetype" type="I" value="1"/>
 								<Prp name="defvaluevalue" type="I" value="2000"/>
 								<Prp name="defvartype" type="I" value="3"/>
 								<Prp name="name" type="S" value="WaitTimeout"/>
@@ -326,7 +281,7 @@
 					</Node>
 					<Prp name="type" type="S" value="{575D0372-CCEB-4D0F-AFE8-D2004F108913}"/>
 				</Node>
-				<Prp name="childcount" type="I" value="7"/>
+				<Prp name="childcount" type="I" value="6"/>
 			</Node>
 			<Node name="data">
 				<Node name="extenders">
@@ -343,12 +298,12 @@
 				</Node>
 			</Node>
 			<Prp name="description" type="S" value=""/>
-			<Prp name="key" type="S" value="{19A374B1-B37F-4D20-8638-A96DC619D359}"/>
+			<Prp name="key" type="S" value="{F951B7B2-A3D1-4905-B683-C2606E07001C}"/>
 			<Prp name="type" type="S" value="{79147B28-EE20-4294-B773-1D3787FBF37B}"/>
 		</Node>
 		<Node name="variables">
 			<Node name="datav3"/>
-			<Prp name="key" type="S" value="{CCF67F98-9256-45C8-82AF-408F68E7A683}"/>
+			<Prp name="key" type="S" value="{92B9BB65-B1E9-4DF8-BC79-73D695954DB5}"/>
 			<Prp name="version" type="I" value="3"/>
 		</Node>
 		<Prp name="signature" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>

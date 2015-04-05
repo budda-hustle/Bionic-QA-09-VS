@@ -20,13 +20,13 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="{33688902-fd6d-4727-9791-6be438b0d6bb}">
-				<Node name="{278b44d1-faee-422a-9a1a-cf9f815b51cd}">
+			<Node name="{06dcba08-ca1e-44d6-a5bf-7bccf8ed69db}">
+				<Node name="{d33b4907-505f-49b7-ae79-ef2cc6653dd2}">
 					<Prp name="filepath" type="S" value="C:\WINDOWS\system32\"/>
 				</Node>
 			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{0F4D9721-2A53-4B26-B8D4-620FE0091666}"/>
+				<Prp name="key" type="S" value="{197C737A-568A-47FE-87C1-07E73708075A}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>

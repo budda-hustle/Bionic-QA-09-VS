@@ -19,14 +19,16 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="child list"/>
-		<Node name="folders">
-			<Node name="folders"/>
+		<Node name="data">
+			<Node name="{89d23ec2-9e8a-491f-a80f-ec7c8be70ab1}">
+				<Prp name="relpath" type="S" value="Notepad\Notepad.mds.tcLS"/>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{E8E1AC60-D3BB-4ACD-AFC5-342C430D7A32}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
 		</Node>
-		<Node name="settings">
-			<Prp name="settingsversion" type="S" value="7.50"/>
-		</Node>
-		<Prp name="signature" type="S" value="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}"/>
-		<Prp name="version" type="S" value="7.0"/>
+		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
 	</Node>
 </Nodes>

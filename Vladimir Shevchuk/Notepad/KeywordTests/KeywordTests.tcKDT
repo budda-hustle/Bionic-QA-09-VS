@@ -25,7 +25,7 @@
 					<Prp name="relpath" type="S" value="CreateFile.tcKDTest"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{FBA17D0A-2230-4D19-B6E2-0F933DB349B5}"/>
+				<Prp name="key" type="S" value="{6AC7DC76-9462-4B16-BC3B-BF0C349E5C06}"/>
 				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
 				<Prp name="typename" type="S" value="Keyword Test"/>
 			</Node>
@@ -34,7 +34,7 @@
 					<Prp name="relpath" type="S" value="EditFile.tcKDTest"/>
 				</Node>
 				<Prp name="index" type="I" value="1"/>
-				<Prp name="key" type="S" value="{EAD02554-DD9D-4E8E-AF2E-DAE040C0C032}"/>
+				<Prp name="key" type="S" value="{C44B1C48-BA4E-441E-8638-4E441A7F3FAA}"/>
 				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
 				<Prp name="typename" type="S" value="Keyword Test"/>
 			</Node>
